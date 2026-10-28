@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/m4rtin004">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Compiling+ideas+into+reality...;Java+%E2%80%A2+Python+%E2%80%A2+C%2FC%2B%2B+%E2%80%A2+React;Hacking+microcontrollers+%26+e-scooters+%E2%9A%A1;Software+Engineering+%40+Universiteti+Metropolitan+Tirana;Open+to+collabs+%26+cool+projects+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Compiling+ideas+into+reality...;Java+%E2%80%A2+Python+%E2%80%A2+C%2FC%2B%2B+%E2%80%A2+React;Programming+microcontrollers+%26+e-scooters+%E2%9A%A1;Software+Engineering+%40+Universiteti+Metropolitan+Tirana;Open+to+collabs+%26+cool+projects+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
