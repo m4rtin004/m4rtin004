@@ -1,11 +1,11 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Martin%20•%20m4rtin004&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Hardware%20Tech%20%7C%20Automation%20Nerd&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Martin%20•%20m4rtin004&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Hardware%20Tech%20%7C%20Automation%20&descAlignY=58&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/m4rtin004">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Compiling+ideas+into+reality...;Java+%E2%80%A2+Python+%E2%80%A2+C%2FC%2B%2B+%E2%80%A2+React;Programming+microcontrollers+%26+e-scooters+%E2%9A%A1;Software+Engineering+%40+Universiteti+Metropolitan+Tirana;Open+to+collabs+%26+cool+projects+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Compiling+ideas+into+reality...;Java+%E2%80%A2+Python+%E2%80%A2+C%2FC%2B%2B+%E2%80%A2+React;Programming+microcontrollers+%26+e-scooters+%E2%9A%A1;SSoftware+Engineering+%40+Universiteti+Metropolitan+Tirana;Open+to+collabs+%26+cool+projects+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
