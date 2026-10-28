@@ -113,12 +113,11 @@ flowchart LR
 
 <!-- Replace repo names below with your real repositories -->
 <p align="center">
-  <a href="https://github.com/m4rtin004/REPO_NAME_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=m4rtin004&repo=REPO_NAME_1&theme=tokyonight&hide_border=true"/></a>
-  <a href="https://github.com/m4rtin004/REPO_NAME_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=m4rtin004&repo=REPO_NAME_2&theme=tokyonight&hide_border=true"/></a>
+  <a href="https://github.com/m4rtin004/blackjack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=m4rtin004&repo=blackjack&theme=tokyonight&hide_border=true"/></a>
+  <a href="https://github.com/m4rtin004/classic-shopping-web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=m4rtin004&repo=classic-shopping-web&theme=tokyonight&hide_border=true"/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/m4rtin004/REPO_NAME_3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=m4rtin004&repo=REPO_NAME_3&theme=tokyonight&hide_border=true"/></a>
-  <a href="https://github.com/m4rtin004/REPO_NAME_4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=m4rtin004&repo=REPO_NAME_4&theme=tokyonight&hide_border=true"/></a>
+  <a href="https://github.com/m4rtin004/3d-ball-game-using-physics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=m4rtin004&repo=3d-ball-game-using-physics&theme=tokyonight&hide_border=true"/></a>
 </p>
 
 ---
