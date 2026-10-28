@@ -149,8 +149,8 @@ flowchart LR
 
 <p align="center">
   <a href="https://github.com/m4rtin004"><img src="https://img.shields.io/badge/GitHub-m4rtin004-181717?style=for-the-badge&logo=github"/></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/martin-shytllari-ag047"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:martin1shytllari@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">
