@@ -20,7 +20,7 @@
 ## 👾 `whoami`
 
 ```java
-public class Martin extends SoftwareEngineer implements HardwareHacker, Automator {
+public class Martin extends SoftwareEngineer implements HardwareTech, Automator {
 
     private final String university = "Universiteti Metropolitan Tirana";
     private final String location   = "Tirana, Albania 🇦🇱";
